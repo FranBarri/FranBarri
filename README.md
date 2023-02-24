@@ -20,7 +20,7 @@ Projects:
 </ul>
 <p>Contact Me:</p>
 <p><a href="https://www.linkedin.com/in/franciscobarrientos/">LinkedIn Profile</a></p>
-<p><a href="ftbarrientos103@gmail.com">Email</a></p>
+<p><a href="mailto:youremail@example.com">youremail@example.com</a></p>
 <p>Thanks for stopping by!</p>
 
 <!---
