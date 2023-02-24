@@ -6,7 +6,6 @@
 <p>🌱 I’m currently learning more about Data Bases and Frameworks.</p>
 <p>👯 I’m looking to collaborate on open source projects related to Computer Science.</p>
 <p>💬 Ask me about my experience with Object Oriented Programming in Java, Python, and C++.</p>
-<p>😄 Pronouns: he/him.</p>
 <h2 style="font-weight: bold;">Skills</h2>
 <ul>
   <li>Object Oriented Programming in Java</li>
@@ -16,9 +15,9 @@
 </ul>
 <h2 style="font-weight: bold;">Projects</h2>
 <ul>
-  <li>Java project: a 2D game and a simulated system based on the 2022 World Cup sticker album</li>
+  <li>Java project: a 2D game and a simulated system based on the 2022 World Cup sticker album.</li>
   <li>Python script for web scraping: Automates web scraping and data extraction from a website.</li>
-  <li>Python project: a game that involves falling letters on the screen, requiring the user to type a word with those letters</li>
+  <li>Python project: a game that involves falling letters on the screen, requiring the user to type a word with those letters.</li>
 </ul>
 <h3 style="font-weight: bold;">Contact Me:</h3>
 <p><a href="https://www.linkedin.com/in/franciscobarrientos/">LinkedIn Profile</a></p>
