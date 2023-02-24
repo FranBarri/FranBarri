@@ -1,7 +1,7 @@
 <head>Hi there! 👋</head>
 <p>I'm Francisco Barrientos, a university student pursuing an Associate degree in Computer Science at Universidad Nacional de General Sarmiento (UNGS), Buenos Aires, Argentina. Welcome to my GitHub profile!</p>
 
-<hl>About Me</hl>
+<hl>About Me:</hl>
 <p>🔭 I’m currently working on personal projects to improve my skills.</p>
 <p>🌱 I’m currently learning more about Data Bases and Frameworks.</p>
 <p>👯 I’m looking to collaborate on open source projects related to Computer Science.</p>
