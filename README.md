@@ -16,7 +16,9 @@
 </ul>
 <h2 style="font-weight: bold;">Projects</h2>
 <ul>
-          <li>Python script for web scraping: Automates web scraping and data extraction from websites.</li>
+  <li>Java project: a 2D game and a simulated system based on the 2022 World Cup sticker album</li>
+  <li>Python script for web scraping: Automates web scraping and data extraction from a website.</li>
+  <li>Python project: a game that involves falling letters on the screen, requiring the user to type a word with those letters</li>
 </ul>
 <h3 style="font-weight: bold;">Contact Me:</h3>
 <p><a href="https://www.linkedin.com/in/franciscobarrientos/">LinkedIn Profile</a></p>
