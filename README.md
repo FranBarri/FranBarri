@@ -1,5 +1,5 @@
 <h1 style="font-weight: bold;">Hi there! 👋</h1>
-<p>I'm Francisco Barrientos, a university student pursuing an Associate degree in Computer Science at Universidad Nacional de General Sarmiento (UNGS), Buenos Aires, Argentina. Welcome to my GitHub profile!</p>
+<p>I'm Francisco Barrientos, a university student pursuing an Associate degree in Computer Science and a Bachelor's degree in Computer Systems at Universidad Nacional de General Sarmiento (UNGS), Buenos Aires, Argentina. Welcome to my GitHub profile!</p>
 
 <h2 style="font-weight: bold;">About Me</h2>
 <p>🔭 I’m currently working on personal projects to improve my skills.</p>
