@@ -7,12 +7,10 @@
 <p>👯 I’m looking to collaborate on open source projects related to Computer Science.</p>
 <p>💬 Ask me about my experience with Object Oriented Programming in Java, Python, and C++.</p>
 <h2 style="font-weight: bold;">Skills</h2>
-<ul>
-  <li>Object Oriented Programming in Java</li>
-  <li>Python</li>
-  <li>C++</li>
-  <li>HTML</li>
-</ul>
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+
 <h2 style="font-weight: bold;">Projects</h2>
 <ul>
   <li>MPV made for a Hackathon, a wallet for kids.</li>
@@ -25,6 +23,12 @@
 <p><a href="mailto:ftbarrientos103@gmail.com">ftbarrientos103@gmail.com</a></p>
 <p style="font-weight: bold;">Thanks for stopping by!</p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranBarri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=FranBarri&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 FranBarri/FranBarri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
