@@ -6,7 +6,6 @@
 <p>🌱 I’m currently learning more about Data Bases and Frameworks.</p>
 <p>👯 I’m looking to collaborate on open source projects related to Computer Science.</p>
 <p>💬 Ask me about my experience with Object Oriented Programming in Java, Python, and C++.</p>
-<h2 style="font-weight: bold;">Skills</h2>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
