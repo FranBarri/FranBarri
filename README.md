@@ -22,8 +22,6 @@
 <p><a href="mailto:ftbarrientos103@gmail.com">ftbarrientos103@gmail.com</a></p>
 <p style="font-weight: bold;">Thanks for stopping by!</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FranBarri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=FranBarri&icon=0&color=0)](https://visitcount.itsvg.in)
 
