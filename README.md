@@ -17,7 +17,7 @@
   <li>Python project: a game that involves falling letters on the screen, requiring the user to type a word with those letters.</li>
 </ul>
 <h3 style="font-weight: bold;">Contact Me:</h3>
-<p><a href="https://www.linkedin.com/in/franciscobarrientos/">LinkedIn Profile</a></p>
+<p><a href="https://www.linkedin.com/in/fbarrientos1/">LinkedIn Profile</a></p>
 <p><a href="mailto:ftbarrientos103@gmail.com">ftbarrientos103@gmail.com</a></p>
 <p style="font-weight: bold;">Thanks for stopping by!</p>
 
