@@ -37,6 +37,8 @@ I am an **Applied Computer Science** student at the **Wrocław University of Sci
 ### 💬 Language Fluency
 * **Spanish:** Native
 * **English:** Professional/C2 Fluent
+* **Polish:** A2 Taking Classes
+* **Japanese** B1 Intermediate
 
 ### 📬 Let's Build Something Together
 * 💼 **LinkedIn:** [linkedin.com/in/fbarrientos1](https://www.linkedin.com/in/fbarrientos1/)
