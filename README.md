@@ -1,31 +1,46 @@
-<h1 style="font-weight: bold;">Hi there! 👋</h1>
-<p>I'm Francisco Barrientos, a university student pursuing an Associate degree in Computer Science and a Bachelor's degree in Computer Systems at Universidad Nacional de General Sarmiento (UNGS), Buenos Aires, Argentina. Welcome to my GitHub profile!</p>
+# Hi there! I'm Francisco Barrientos 👋
 
-<h2 style="font-weight: bold;">About Me</h2>
-<p>🔭 I’m currently working at Inforge as a Salesforce Developer.</p>
-<p>🌱 I’m currently learning more about the Salesforce Platform, Data Bases and Frameworks.</p>
-<p>💬 Ask me about my experience with Object Oriented Programming in Java, Python, and Apex.</p>
+I am an **Applied Computer Science** student at the **Wrocław University of Science and Technology (Politechnika Wrocławska)** in Poland, originally from Argentina. I specialize in backend architecture, cloud infrastructure orchestration (IaC), and production-grade AI agent integrations. 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+### 🚀 The Startup Advantage (Summer 2026)
+* **Funding:** Fully backed by an **EU Erasmus+ Mobility Grant**, covering my baseline relocation and living expenses. I can join European startup teams as a **budget-neutral / highly subsidized** engineering intern.
+* **Timeline:** Available for a 60 to 90-day placement from **mid-July to late September**.
+* **Work Authorization:** Dual Citizen (Polish/Argentine) — **Full legal right to work across the EU** with no visa sponsorship required.
 
-<h2 style="font-weight: bold;">Projects</h2>
-<ul>
-  <li>MVP made for a Hackathon, a wallet for kids.</li>
-  <li>Java projects: an arithmetic puzzle game, an app that simulates the cost of connection between Argentine cities, an app to select the best team from a list of people with a backtracking algorithm, a 2D game, a simulated system based on the 2022 World Cup sticker album.</li>
-  <li>Python script for web scraping: Automates web scraping and data extraction from a website.</li>
-  <li>Python project: a game that involves falling letters on the screen, requiring the user to type a word with those letters.</li>
-</ul>
-<h3 style="font-weight: bold;">Contact Me:</h3>
-<p><a href="https://www.linkedin.com/in/fbarrientos1/">LinkedIn Profile</a></p>
-<p><a href="mailto:ftbarrientos103@gmail.com">ftbarrientos103@gmail.com</a></p>
-<p style="font-weight: bold;">Thanks for stopping by!</p>
+---
+
+### 🛠️ Tech Stack & Tooling
+
+* **Languages:** Python, Java, Kotlin, Swift (SwiftUI), SQL (T-SQL), C++, Apex, Bash
+* **Cloud & DevOps:** AWS (EC2, Lambda, DynamoDB), Terraform (Infrastructure as Code), GCP, Firebase, Git/GitHub Actions
+* **Data & AI:** REST APIs (Flask/FastAPI), OpenAI API integrations, Data Warehousing (Dimensional Modeling, SSIS), ETL Pipelines
+* **Methodologies:** MVVM Architecture, Agile, Object-Oriented Programming (OOP)
+
+---
+
+### ⚙️ Featured Engineering Projects
+
+#### 👁️ Real-Time Face Recognition & Biometric Processing System
+* **Description:** Engineered an end-to-end computer vision pipeline capable of detecting, tracking, and identifying facial biometrics in real-time video streams. Implemented optimized feature-extraction algorithms to ensure low-latency processing and accurate matching against an indexed image database.
+* *Key Tech:* Python, OpenCV, Face Recognition libraries, NumPy, Data Serialization.
+
+#### 📊 World Cup Statistics Data Warehouse & ETL Engine
+* **Description:** Developed a complete dimensional data warehouse mapping global tournament stats with dynamic climate data. Engineered custom Python ETL scripts to geocode sports club coordinates and map historical weather APIs.
+* *Key Tech:* T-SQL (SQL Server), Python, SSIS, Mermaid.js (Dimensional Modeling).
+
+#### 🤖 Enterprise AI & Workflow Integration (Inforge)
+* **Description:** Identified internal process inefficiencies and engineered a secure REST API pipeline connecting production business backends with OpenAI's ChatGPT. Refactored legacy system logic to decrease average response times by ~15%.
+* *Key Tech:* Apex, SOQL, OpenAI API, REST Architecture.
+
+---
+
+### 💬 Language Fluency
+* **Spanish:** Native
+* **English:** Professional/C2 Fluent
+
+### 📬 Let's Build Something Together
+* 💼 **LinkedIn:** [linkedin.com/in/fbarrientos1](https://www.linkedin.com/in/fbarrientos1/)
+* 📧 **Email:** [ftbarrientos103@gmail.com](mailto:ftbarrientos103@gmail.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FranBarri&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-FranBarri/FranBarri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
