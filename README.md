@@ -1,6 +1,6 @@
 # Hi there! I'm Francisco Barrientos 👋
 
-I am an **Applied Computer Science** student at the **Wrocław University of Science and Technology (Politechnika Wrocławska)** in Poland, originally from Argentina. I specialize in backend architecture, cloud infrastructure orchestration (IaC), and production-grade AI agent integrations. 
+I am an **Applied Computer Science** student at the **Wrocław University of Science and Technology (Politechnika Wrocławska)** in Poland, originally from Argentina. I specialize in backend architecture, and production-grade AI agent integrations. 
 
 ### 🚀 The Startup Advantage (Summer 2026)
 * **Funding:** Fully backed by an **EU Erasmus+ Mobility Grant**, covering my baseline relocation and living expenses. I can join European startup teams as a **budget-neutral / highly subsidized** engineering intern.
@@ -12,7 +12,7 @@ I am an **Applied Computer Science** student at the **Wrocław University of Sci
 ### 🛠️ Tech Stack & Tooling
 
 * **Languages:** Python, Java, Kotlin, Swift (SwiftUI), SQL (T-SQL), C++, Apex, Bash
-* **Cloud & DevOps:** AWS (EC2, Lambda, DynamoDB), Terraform (Infrastructure as Code), GCP, Firebase, Git/GitHub Actions
+* **Cloud & DevOps:** AWS (EC2, Lambda, DynamoDB), Terraform, GCP, Firebase, Git/GitHub Actions
 * **Data & AI:** REST APIs (Flask/FastAPI), OpenAI API integrations, Data Warehousing (Dimensional Modeling, SSIS), ETL Pipelines
 * **Methodologies:** MVVM Architecture, Agile, Object-Oriented Programming (OOP)
 
