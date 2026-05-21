@@ -1,31 +1,32 @@
 # Hi there! I'm Francisco Barrientos 👋
 
-I am an **Applied Computer Science** student at the **Wrocław University of Science and Technology (Politechnika Wrocławska)** in Poland, originally from Argentina. I specialize in backend architecture, and production-grade AI agent integrations. 
+I am a **Backend & Cloud Engineering** student at the **Wrocław University of Science and Technology (Politechnika Wrocławska)**. I specialize in building serverless infrastructure, data ingestion pipelines, and REST APIs. 
 
-* Fully backed by an **EU Erasmus+ Mobility Grant**, covering my baseline relocation and living expenses. I can join European startup teams as a **subsidized** engineering intern.
-* **Timeline:** Available for a 60 to 90-day placement from **mid-July to late September**.
-* **Work Authorization:** Dual Citizen (Polish/Argentine) — **Full legal right to work across the EU** with no visa sponsorship required.
+* 🇪🇺 **Fully Subsidized:** Backed by an **EU Erasmus+ Mobility Grant**, covering my relocation and living expenses. I can join European teams as a funded engineering intern.
+* 📅 **Timeline:** Available for a 60 to 90-day placement from **mid-July to late September 2026**.
+* 🛂 **Full Work Authorization:** Dual Citizen (Polish/Argentine) — **Full legal right to work across the EU** with no visa sponsorship required.
 
 ---
 
 ### 🛠️ Tech Stack & Tooling
 
-* **Languages:** Python, Java, Kotlin, Swift (SwiftUI), SQL (T-SQL), C++, Apex, Bash
-* **Cloud & DevOps:** AWS (EC2, Lambda, DynamoDB), Terraform, GCP, Firebase, Git/GitHub Actions
-* **Data & AI:** REST APIs (Flask/FastAPI), OpenAI API integrations, Data Warehousing (Dimensional Modeling, SSIS), ETL Pipelines
-* **Methodologies:** MVVM Architecture, Agile, Object-Oriented Programming (OOP)
+* **Languages:** Python, Java, SQL, JavaScript, Bash
+* **Cloud & DevOps:** AWS (Lambda, IAM, EC2), Terraform (IaC), Git, Linux
+* **Backend & AI:** REST APIs (Flask), OpenAI API integrations, Computer Vision (`face_recognition`, OpenCV)
+* **Data Engineering:** Pandas, Selenium, Dimensional Modeling, Data Warehousing, ETL Pipelines
 
 ---
 
-### ⚙️ Featured Engineering Projects
+### ⚙️ Featured Engineering Focus
 
-#### 👁️ Real-Time Face Recognition & Biometric Processing System
-* **Description:** Engineered an end-to-end computer vision pipeline capable of detecting, tracking, and identifying facial biometrics in real-time video streams. Implemented optimized feature-extraction algorithms to ensure low-latency processing and accurate matching against an indexed image database.
-* *Key Tech:* Python, OpenCV, Face Recognition libraries, NumPy, Data Serialization.
+#### 🌩️ Cloud Automation & Serverless Architecture
+I treat infrastructure as software. My current focus is leveraging **Terraform** to automate the deployment of lightweight, secure AWS environments (Lambda, API Function URLs) to bypass manual console configuration and ensure rapid, scalable microservice deployment.
 
-#### 🤖 Enterprise AI & Workflow Integration (Inforge)
-* **Description:** Identified internal process inefficiencies and engineered a secure REST API pipeline connecting production business backends with OpenAI's ChatGPT. Refactored legacy system logic to decrease average response times by ~15%.
-* *Key Tech:* Apex, SOQL, OpenAI API, REST Architecture.
+#### 📊 Data Ingestion & API Engineering
+I build the systems that feed the frontend. Whether it is engineering automated **Selenium/Pandas pipelines** to scrape and structure dynamic web data, or deploying **Flask REST APIs** to process complex machine learning payloads (like biometric feature vectors), I focus on clean data flow and low-latency responses.
+
+#### 🤖 Enterprise AI Integration in Salesforce (Inforge)
+Engineered a secure REST API pipeline connecting production business backends with OpenAI's LLMs. Refactored legacy system logic to decrease average response times by ~15%, proving my ability to integrate modern AI agents into existing enterprise architecture.
 
 ---
 
@@ -33,7 +34,7 @@ I am an **Applied Computer Science** student at the **Wrocław University of Sci
 * **Spanish:** Native
 * **English:** Professional/C2 Fluent
 * **Polish:** A2 Taking Classes
-* **Japanese** B1 Intermediate
+* **Japanese:** B1 Intermediate
 
 ### 📬 Let's Build Something Together
 * 💼 **LinkedIn:** [linkedin.com/in/fbarrientos1](https://www.linkedin.com/in/fbarrientos1/)
