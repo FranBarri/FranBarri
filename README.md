@@ -1,6 +1,6 @@
 # Hi there! I'm Francisco Barrientos 👋
 
-I am a **Backend & Cloud Engineering** student at the **Wrocław University of Science and Technology (Politechnika Wrocławska)**. I specialize in building serverless infrastructure, data ingestion pipelines, and REST APIs. 
+I am a **Applied Computer Science** student at the **Wrocław University of Science and Technology (Politechnika Wrocławska)**. I specialize in building serverless infrastructure, data ingestion pipelines, and REST APIs. 
 
 * 🇪🇺 **Fully Subsidized:** Backed by an **EU Erasmus+ Mobility Grant**, covering my relocation and living expenses. I can join European teams as a funded engineering intern.
 * 📅 **Timeline:** Available for a 60 to 90-day placement from **mid-July to late September 2026**.
