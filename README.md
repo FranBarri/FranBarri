@@ -1,4 +1,4 @@
-# Hi, I'm Francisco 👋
+# Hi, I'm Francisco
 
 Applied Computer Science student at **Wrocław University of Science and Technology** (graduating February 2027) and Junior Project Support Specialist at **GlobalLogic**, where I work on data tagging for AI projects.
 
@@ -6,7 +6,7 @@ I'm a developer in the making, focused on **Python, backend and cloud**, and I l
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -17,7 +17,7 @@ I'm a developer in the making, focused on **Python, backend and cloud**, and I l
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages:** Python, Java, SQL, JavaScript, Kotlin, Swift, Bash
 - **Backend & AI:** Flask, REST APIs, OpenAI and Gemini API integrations, OpenCV, face_recognition, scikit-learn
@@ -27,20 +27,28 @@ I'm a developer in the making, focused on **Python, backend and cloud**, and I l
 
 ---
 
-## 💼 Experience
+## Currently Learning
+
+- Building LLM agents with **LangGraph**
+- Running small language models locally (quantization, Ollama / llama.cpp)
+- Anomaly detection on sensor data
+
+---
+
+## Experience
 
 - **GlobalLogic** (2026 - present): Junior Project Support Specialist. Data tagging and quality checks that feed AI model training.
 - **Inforge** (2023 - 2024): Salesforce Developer. Apex backend logic, custom REST integrations (including an OpenAI integration for a client CRM), and query optimization that cut average response times by about 15%.
 
 ---
 
-## 🌍 Languages
+## Languages
 
 Spanish (native) · English (C2) · Polish (A2, learning) · Japanese (JLPT N5, 4 years of study)
 
 ---
 
-## 📬 Contact
+## Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fbarrientos1/)
-- 📧 ftbarrientos103@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/fbarrientos1/)
+- ftbarrientos103@gmail.com
